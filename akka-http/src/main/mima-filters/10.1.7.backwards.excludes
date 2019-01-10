@@ -1,0 +1,2 @@
+# This method only existed in the 10.1.7 2.13.0-M5 milestone release, not in non-milestone released versions
+ProblemFilters.exclude[DirectMissingMethodProblem]("akka.http.ccompat.package#ConvertableVASeq.asJava$extension")
